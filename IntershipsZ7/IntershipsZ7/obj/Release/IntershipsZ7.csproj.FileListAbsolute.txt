@@ -1,0 +1,41 @@
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\bin\Release\IntershipsZ7.exe.config
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\bin\Release\IntershipsZ7.exe
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\bin\Release\IntershipsZ7.pdb
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\Views\MainWindow.g.cs
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\App.g.cs
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7_MarkupCompile.cache
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7_MarkupCompile.lref
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\Views\MainWindow.baml
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.g.resources
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.Properties.Resources.resources
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.csproj.GenerateResource.Cache
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.csproj.CoreCompileInputs.cache
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.exe
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.pdb
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.csprojResolveAssemblyReference.cache
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\IntershipsZ7.exe.config
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\IntershipsZ7.exe
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\IntershipsZ7.pdb
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.csprojResolveAssemblyReference.cache
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\Views\MainWindow.g.cs
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\App.g.cs
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7_MarkupCompile.cache
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7_MarkupCompile.lref
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\Views\MainWindow.baml
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.g.resources
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.Properties.Resources.resources
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.csproj.GenerateResource.Cache
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.csproj.CoreCompileInputs.cache
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.exe
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.pdb
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\EntityFramework.dll
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\EntityFramework.xml
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7.csproj.CopyComplete
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Release\IntershipsZ7_Content.g.cs
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\ImmovableDB.mdf
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\ImmovableDB_log.ldf
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Release\ru\EntityFramework.SqlServer.resources.dll

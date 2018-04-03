@@ -1,0 +1,41 @@
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\bin\Debug\IntershipsZ7.exe.config
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\bin\Debug\IntershipsZ7.exe
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\bin\Debug\IntershipsZ7.pdb
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csprojResolveAssemblyReference.cache
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\App.g.cs
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7_MarkupCompile.cache
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7_MarkupCompile.lref
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.g.resources
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.Properties.Resources.resources
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csproj.GenerateResource.Cache
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csproj.CoreCompileInputs.cache
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.exe
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.pdb
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\Views\MainWindow.g.cs
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\Views\MainWindow.baml
+C:\Users\htcvive\Source\Repos\IntershipsZ7\IntershipsZ7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\IntershipsZ7.exe.config
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\IntershipsZ7.exe
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\IntershipsZ7.pdb
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csprojResolveAssemblyReference.cache
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\Views\MainWindow.g.cs
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\App.g.cs
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7_MarkupCompile.cache
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7_MarkupCompile.lref
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\Views\MainWindow.baml
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.g.resources
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.Properties.Resources.resources
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csproj.GenerateResource.Cache
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csproj.CoreCompileInputs.cache
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.exe
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.pdb
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\EntityFramework.dll
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\EntityFramework.xml
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7_Content.g.cs
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csproj.CopyComplete
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\ImmovableDB.mdf
+C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\ImmovableDB_log.ldf
