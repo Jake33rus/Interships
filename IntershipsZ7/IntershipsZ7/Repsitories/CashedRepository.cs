@@ -19,12 +19,12 @@ namespace IntershipsZ7.Repositories
         public override List<T> Load()
         {
             var list = base.Load();
-            DataBaseContext dbCtx = new DataBaseContext();
-            foreach(T t in dbCtx.Set<T>()) 
+            foreach(T t in list) 
             {
-                if (!myDict.ContainsKey(t.Id))
+               if (!myDict.ContainsKey(t.Id))
                 {
-                    myDict.Add(t.Id, t);
+                    T obj = t;
+                    myDict.Add(obj.Id, obj);
                 }
             }
             return list;
