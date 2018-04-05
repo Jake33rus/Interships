@@ -14,6 +14,7 @@ namespace IntershipsZ7.Repositories
     class SQLRepository<T> where T: class, new()
     {
         public DataBaseContext db = new DataBaseContext();
+
         public void SaveChanges()
         {
             db.SaveChanges();

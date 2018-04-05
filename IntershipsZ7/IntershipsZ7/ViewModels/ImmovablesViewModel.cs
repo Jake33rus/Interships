@@ -15,6 +15,7 @@ namespace IntershipsZ7.ViewModels
     class ImmovablesViewModel:ChangeNotifier
     {
         ImmoRepos ir = new ImmoRepos();
+        ImmoRepos saveIr;
         public ObservableCollection<Immovables> ImmoObsCol { get; set; }
         public List<TypesViewModel> TypesList { get; set; }
         private int selectedType;
@@ -49,11 +50,13 @@ namespace IntershipsZ7.ViewModels
             {
                 return saveCommand ??
                     (saveCommand = new RelayCommand(obj =>
-                    {   
+                    {
+                        
                        foreach (var immo in ImmoObsCol)
                         {
-                            ir.Update(immo.Id, immo);
-                            ir.SaveChanges();
+                            saveIr = new ImmoRepos();
+                            saveIr.Update(immo.Id, immo);
+                            saveIr.SaveChanges();
                         }
                         MessageBox.Show("Изменения сохранены!", "IntershipsZ8");
                     }));
@@ -70,7 +73,7 @@ namespace IntershipsZ7.ViewModels
                         
                         foreach(var immo in ir.Load())
                         { 
-                            var temp = ir.LoadByID(immo.Id);
+                            var temp = saveIr.LoadByID(immo.Id);
                             immo.Type = temp.Type;
                         }
                         ir.SaveChanges();
