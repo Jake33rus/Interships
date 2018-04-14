@@ -39,3 +39,30 @@ C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj
 C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csproj.CopyComplete
 C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\ImmovableDB.mdf
 C:\Users\htcvive\Desktop\Стажировка EGAR\IntershipsZ7\IntershipsZ7\bin\Debug\ImmovableDB_log.ldf
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\ImmovableDB.mdf
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\ImmovableDB_log.ldf
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\IntershipsZ7.exe.config
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\IntershipsZ7.exe
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\IntershipsZ7.pdb
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\EntityFramework.dll
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\EntityFramework.SqlServer.dll
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\EntityFramework.xml
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\EntityFramework.SqlServer.xml
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\ru\EntityFramework.resources.dll
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csprojResolveAssemblyReference.cache
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\Views\MainWindow.g.cs
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\App.g.cs
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7_MarkupCompile.cache
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7_MarkupCompile.lref
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\Views\MainWindow.baml
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.g.resources
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.Properties.Resources.resources
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csproj.GenerateResource.cache
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csproj.CoreCompileInputs.cache
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.csproj.CopyComplete
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.exe
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\obj\Debug\IntershipsZ7.pdb
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\CommonLib.dll
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\CommonLib.pdb
+K:\Interships-repo\Interships\IntershipsZ7\IntershipsZ7\bin\Debug\CommonLib.dll.config
