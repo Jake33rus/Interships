@@ -54,16 +54,10 @@ namespace IntershipsZ7.ViewModels
                 return saveCommand ??
                     (saveCommand = new RelayCommand(obj =>
                     {
-
                         foreach (var immo in ImmoObsCol)
-                          {/*
-                              saveIr = new ImmoRepos();
-                              saveIr.Update(immo.Id, immo);
-                              saveIr.SaveChanges();
-                              */
+                          {
                             client.DBSave(immo);
-                          }
-                        
+                          }                 
                         MessageBox.Show("Изменения сохранены!", "IntershipsZ8");
                     }));
             }

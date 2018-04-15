@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntershipsZ7", "IntershipsZ7\IntershipsZ7.csproj", "{06026FC6-5217-4DA9-B710-628B36CD0C67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "C:\Users\htcvive\Source\Repos\CommonLib\CommonLib\CommonLib.csproj", "{9335E808-1898-4C24-8866-55E31CAB118F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "..\CommonLib\CommonLib\CommonLib.csproj", "{9335E808-1898-4C24-8866-55E31CAB118F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
